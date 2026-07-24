@@ -1,0 +1,4 @@
+interface:
+  display_name: "电子朝廷"
+  short_description: "召集独立智能体组成电子朝廷，从多方利益与专业角度审议复杂问题"
+  default_prompt: "使用 $digital-court 召集群臣，从不同角度审议这个问题并呈递可执行建议。"
